@@ -1,3 +1,6 @@
+//programe to calculate grace marks of a student
+
+
 #include<stdio.h>  
   
 int main()  
