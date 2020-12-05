@@ -6,6 +6,10 @@
 
 Solution of all the exercise problems of Let Us C book( written by Yashwant Kanetkar )
 
+---
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/debajit13/Let-Us-C-solution/graphs/commit-activity)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/debajit13/Let-Us-C-solution/pulls) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 # Motivation
 
 Let Us C is one of the most popular book for learning C. It's also very important for coding interviews in the Campus Recruitments. So this project helps all the college undergraduates to prepare for their placement interview and get all solution codes of Let Us C in one place.
@@ -39,6 +43,6 @@ int main()
 
 # How to contribute ?
 
-To contribute in this project check out the [CONTRIBUTING.md](./CONTRIBUTING.md)
+To contribute check out the [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <p align="center">Made with :heart: and  :coffee: by Debajit Mallick</p>
