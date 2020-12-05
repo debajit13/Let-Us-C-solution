@@ -1,3 +1,7 @@
+<p align="center">
+  <img style="border-width: 0" width="400" height="400" src="./assets/logo.png" alt="Let Us C Solutions logo">
+</p>
+
 # Let-Us-C-solution
 
 Solution of all the exercise problems of Let Us C book( written by Yashwant Kanetkar )
